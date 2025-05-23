@@ -1,7 +1,7 @@
 
 # Hi there, I'm N Muhammad Fadil 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=nmfadil&color=blue) <!--https://github.com/antonkomarev/github-profile-views-counter-->
+![Profile views](https://komarev.com/ghpvc/?username=nmfadil&color=blue&base=12345) <!--https://github.com/antonkomarev/github-profile-views-counter-->
 
 I'm a passionate [Your Profession or Role] from [Your Location] who loves building things with code. I'm especially interested in [e.g., web development, AI, DevOps, open source].
 <!--
