@@ -13,7 +13,7 @@ From https://gprm.itsvg.in/
 - 🤔 I’m looking for help with **Deep Learning Techniques**<br>
 - 📫 How to reach me: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=black&label=%20)](https://wa.me/917558083595?text=Hi%20Fadil!%0AI%20would%20like%20to%20chat%20with%20you..%0AI%20found%20this%20from%20github..)
 <br>
-- ⚡ Fun fact: **Introvert**😎
+- ⚡ Fun fact: **Introvert** 😎
 
 
 ## 🌐 Socials:
