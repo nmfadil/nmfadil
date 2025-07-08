@@ -3,14 +3,14 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=nmfadil&color=blue&base=12345) <!--https://github.com/antonkomarev/github-profile-views-counter-->
 
-I'm a passionate [Your Profession or Role] from [Your Location] who loves building things with code. I'm especially interested in [e.g., web development, AI, DevOps, open source].
+I'm a passionate Data Scientist currently working as a Python AI Developer and Trainer from Kollam who loves building things with code. I'm especially interested in AWS, Kubernetes, Docker & MLOps.
 <!--
 From https://gprm.itsvg.in/
 -->
 # 💫 About Me:
 - 🌱 I’m currently learning **Artificial Intelligence - ML, DL, Generative AI Concepts**<br>
-- 💼 Working as: **Python Developer**<br>
-- 🤔 I’m looking for help with **Deep Learning Techniques**<br>
+- 💼 Working as: **Python AI Developer and Trainer**<br>
+- 🤔 I’m looking for help with **AWS, Kubernetes, Docker & MLOps**<br>
 - 📫 How to reach me: [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=black&label=%20)](https://wa.me/917558083595?text=Hi%20Fadil!%0AI%20would%20like%20to%20chat%20with%20you..%0AI%20found%20this%20from%20github..)<br>
 - ⚡ Fun fact: **Introvert** 😎
 
@@ -28,7 +28,9 @@ From https://gprm.itsvg.in/
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Youtube) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmfadil2002@gmail.com) 
 -->
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AerVrKRNQ5) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nm.fadil.oo7_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nmfadil-data-scientist) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmfadil2002@gmail.com)
 
 # 💻 Tech Stack:
